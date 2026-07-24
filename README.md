@@ -1,3 +1,3 @@
-# CineNova Free
+# CineNova Free - Streaming Platform
 
-Professional streaming platform
+Production-ready streaming platform for movies, series, music, and podcasts.
