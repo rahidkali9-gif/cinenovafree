@@ -1,6 +1,6 @@
 # CineNova Free - Professional Streaming Platform
 
-🎬 Complete production-ready streaming platform for movies, series, music, podcasts, and more.
+🎬 **CineNova Free** - Complete production-ready streaming platform for movies, series, music, podcasts, and more.
 
 ## Quick Start
 
@@ -19,10 +19,10 @@ cd cinenovafree
 # Backend
 cd backend && npm install && npm run dev
 
-# Frontend (new terminal)
+# Frontend
 cd frontend && npm install && npm run dev
 
-# Admin Panel (new terminal)
+# Admin Panel
 cd admin-panel && npm install && npm run dev
 ```
 
