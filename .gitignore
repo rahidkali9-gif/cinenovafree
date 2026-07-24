@@ -2,6 +2,7 @@ node_modules/
 .env
 .env.local
 .env.*.local
+.env.production.local
 .DS_Store
 *.log
 npm-debug.log*
@@ -12,3 +13,11 @@ build/
 out/
 .cache/
 .eslintcache
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+coverage/
+.nyc_output/
+Thumbs.db
